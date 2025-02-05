@@ -63,12 +63,12 @@ This will start the project, and you can access it at `http://localhost:5173`.
 ---
 
 ## 📸 Screenshots
-🔹 Summary for Article 1 ([Original Article](https://news.mit.edu/2025/user-friendly-system-can-help-developers-build-more-efficient-simulations-and-ai-models-0203)):
+🔹 **Summary for Article 1** ([Original Article](https://news.mit.edu/2025/user-friendly-system-can-help-developers-build-more-efficient-simulations-and-ai-models-0203)):
 
 ![article1_screenshot](https://github.com/johnnysteel/BrevityAI/blob/16f8cec2acfc42bd9e4f9de5d2be77711b4b6413/BrevityAI%20Screenshot%20(Article%201%20Summary).png)
 
 
-🔹 Summary for Article 2 ([Original Article](https://news.mit.edu/2025/introducing-mit-generative-ai-impact-consortium-0203)):
+🔹 **Summary for Article 2** ([Original Article](https://news.mit.edu/2025/introducing-mit-generative-ai-impact-consortium-0203)):
 
 ![article2_screenshot](https://github.com/johnnysteel/BrevityAI/blob/16f8cec2acfc42bd9e4f9de5d2be77711b4b6413/BrevityAI%20Screenshot%20(Article%202%20Summary).png)
 

@@ -1,4 +1,4 @@
-# 📌 BrevityAI
+# 🤖 BrevityAI
 
 **An advanced AI-powered article summarizer that intelligently extracts and condenses key information from lengthy articles, transforming them into clear, concise, and easily digestible insights.** 
 
